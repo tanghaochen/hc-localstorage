@@ -1,0 +1,26 @@
+{
+  "name": "hc-localstorage-plus",
+  "version": "1.0.0",
+  "description": "A localStorage wrapper that uses JavaScript Proxy to automatically sync changes to the localStorage.",
+  "type": "module",
+  "bin": {
+    "axiosPlus": "lib/index.js"
+  },
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanghaochen/hc-localstorage.git"
+  },
+  "keywords": [
+    "localstorage"
+  ],
+  "author": "haocheni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanghaochen/hc-localstorage/issues"
+  },
+  "homepage": "https://github.com/tanghaochen/hc-localstorage#readme"
+}
