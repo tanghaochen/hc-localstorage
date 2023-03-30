@@ -1,6 +1,6 @@
 {
   "name": "hc_localstorage_plus",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A localStorage wrapper that uses JavaScript Proxy to automatically sync changes to the localStorage.",
   "type": "module",
   "bin": {
